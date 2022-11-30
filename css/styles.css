@@ -3,7 +3,7 @@
         background-image: url(../img/Brick_wall.jpeg);
       
         /* Set a specific height */
-        min-height: 500px;
+        min-height: 200px;
       
         /* Create the parallax scrolling effect */
         background-attachment: fixed;
@@ -18,7 +18,7 @@
      background-image: url(../img/dollar_puzzel.jpeg);
       
      /* Set a specific height */
-     min-height: 500px;
+     min-height: 200px;
    
      /* Create the parallax scrolling effect */
      background-attachment: fixed;
@@ -33,7 +33,7 @@
     background-image: url(../img/Building_sky.jpeg);
       
     /* Set a specific height */
-    min-height: 500px;
+    min-height: 200px;
   
     /* Create the parallax scrolling effect */
     background-attachment: fixed;

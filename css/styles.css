@@ -1,0 +1,45 @@
+.first-section{
+        /* The image used */
+        background-image: url(../img/Brick_wall.jpeg);
+      
+        /* Set a specific height */
+        min-height: 500px;
+      
+        /* Create the parallax scrolling effect */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        justify-content:center;
+        flex-direction: column;
+}
+.second-section{
+     /* The image used */
+     background-image: url(../img/dollar_puzzel.jpeg);
+      
+     /* Set a specific height */
+     min-height: 500px;
+   
+     /* Create the parallax scrolling effect */
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     justify-content:center;
+     flex-direction: column;
+}
+.third-section{
+    /* The image used */
+    background-image: url(../img/Building_sky.jpeg);
+      
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content:center;
+    flex-direction: column;
+}
